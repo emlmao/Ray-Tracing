@@ -7,10 +7,10 @@ Make sure you have three.js installed.
 
 Enter into the command line: 
 
-**three.js**
+**(three.js)**
 npm install --save three
 
-**vite**
+**(vite)**
 npm install --save-dev vite
 
 npx vite
